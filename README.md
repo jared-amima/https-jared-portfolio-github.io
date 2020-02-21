@@ -6,5 +6,5 @@
 ## Technologies Used
 {HTML, CSS}
 *{MIT}*
-Copyright (c) {2020} **{Jared Amima}**
+Copyright (c) {2020} **{Jared Amima.}**
   
