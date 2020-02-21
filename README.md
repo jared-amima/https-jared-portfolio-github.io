@@ -2,7 +2,7 @@
 #### {Brief description of application}, {Date of current version}
 #### By **{jared amima.}**
 ## Description
-{web portfolio is used to showcase once work}
+{Web portfolio is used to showcase once work}
 ## Technologies Used
 {HTML, CSS}
 *{MIT}*
